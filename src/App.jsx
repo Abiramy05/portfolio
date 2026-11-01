@@ -50,9 +50,7 @@ function App() {
 
       <header className="hero" id="top">
         <p className="hero-eyebrow">// hello world</p>
-        <h1>
-          Abiramy <span className="accent">K</span>
-        </h1>
+        <h1>Abiramy K</h1>
         <p className="hero-role">
           Final-year B.E. Electronics &amp; Communication Engineering student
           specializing in <strong>Advanced Communication Technology</strong> at
